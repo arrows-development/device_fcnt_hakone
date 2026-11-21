@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "kernel_fcnt_sm7435",
+    "target_path": "kernel/fcnt/sm7435"
+  },
+  {
+    "repository": "kernel_fcnt_sm7435-modules",
+    "target_path": "kernel/fcnt/sm7435-modules"
+  },
+  {
+    "repository": "packages_apps_FCNTParts",
+    "target_path": "packages/apps/FCNTParts"
+  }
+]
